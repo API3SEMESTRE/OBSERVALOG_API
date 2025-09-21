@@ -2,9 +2,6 @@
 
 # Aprendizado por Projeto Integrador (API)
 
-A aprendizagem por projeto integrador é uma metodologia que visa organizar os conhecimentos adquiridos pelos alunos ao longo do curso, permitindo que trabalhem em equipe em projetos práticos que abrangem diversas áreas do saber.
-Os projetos aplicam conceitos de diferentes disciplinas para resolver problemas reais. Quando combinados com a abordagem ágil SCRUM, o foco é desenvolver habilidades como proatividade, autonomia, colaboração e entrega de resultados, promovendo um aprendizado mais dinâmico e eficaz.
-
 O Aprendizado por Projeto Integrador é uma metodologia que conecta teoria e prática, permitindo que os alunos trabalhem em equipe no desenvolvimento de projetos que envolvem diferentes áreas do conhecimento. A proposta incentiva a aplicação de conceitos aprendidos ao longo do curso para resolver problemas reais, além de estimular competências como colaboração, autonomia, proatividade e foco em resultados, especialmente quando associado a metodologias ágeis como o SCRUM.
 
 # Índice
