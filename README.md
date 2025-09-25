@@ -41,17 +41,15 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 # Backlog do produto
 
 ## Sprint 1
-### Análise comparativa regional 
-- [ ] Como o desempenho comercial de um Estado se compara aos outros?
-- [ ] Segmentação por Estado;
-- [ ] Apresentar dados detalhados sobre exportação, a partir da segmentação;
-- [ ] Normalização e análise inicial dos dados no Google Colab;
-- [ ] A partir ds dados no Google Colab, utilizar bases públicas de comércio exterior,
-com código reutilizável para futuras análises no Power BI;
-### Identificação de mercados emergentes
-- [ ] Identificar quais países têm aumentado a importação de produtos específicos de cada Estado brasileiro;
-- [ ] Buscar e filtrar para pesquisa de cargas e análise específica;
-- [ ] Desenvolvimetno do back-end em Python 3+;
+### Análise dos Dados
+- [X] Normalização e análise inicial dos dados no Google Colab;
+- [X] Limpeza inicial utilizando o Google Colab em linguagens de programação Phyton3+, para garantir consistência no dashboard;
+- [X] Primeira versão do dashboard usando a base geral do Renaest, para começar a análise de forma consistente;
+- [X] Dashboard no Power BI com interface para visualizar os indicadores de forma intuitiva.
+### Segmentação dos Dados
+- [X] Dados apresentados em gráficos, para facilitar a interpretação e análise.
+- [X] Visualização dos dados por estado, por município e por rodovia, para comparar diferentes níveis de abrangência.
+- [X] Filtros interativos e exportação dos dados, para explorar diferentes cenários e compartilhar informações quando necessário.
 
 ## Sprint 2
 ### Geografia dos fluxos
