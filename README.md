@@ -23,8 +23,7 @@ O projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence 
 | Team Member |   Júlia Caraça       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-caraca-de-sousa/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliacaraca)               |
 | Team Member  | Pollyana Dias          |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/pollyana-dias) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PollyanaMDS)     |
 | Team Member  | Daniel Montes          |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/pollyana-dias) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PollyanaMDS)     |
-|  Team Member  | Anne Beatriz                 |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anne-beatriz-abba402b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHsquare&logo=github&logoColor=white)](https://github.com/Anneolivi)           |
-
+| Team Member  | Anne Beatriz          | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/pollyana-dias) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PollyanaMDS)     |
 
 # Objetivo do Projeto
 Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.
@@ -37,54 +36,46 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
  ### Tecnologias da Informação
  > Jira;
  > GitHub;
+ > Google Colab;
 
 # Backlog do produto
 
 ## Sprint 1
-### Análise dos Dados
+### Tratamento dos Dados
 - [X] Normalização e análise inicial dos dados no Google Colab;
 - [X] Limpeza inicial utilizando o Google Colab em linguagens de programação Phyton3+, para garantir consistência no dashboard;
+### Análise dos Dados
 - [X] Primeira versão do dashboard usando a base geral do Renaest, para começar a análise de forma consistente;
 - [X] Dashboard no Power BI com interface para visualizar os indicadores de forma intuitiva.
-### Segmentação dos Dados
 - [X] Dados apresentados em gráficos, para facilitar a interpretação e análise.
-- [X] Visualização dos dados por estado, por município e por rodovia, para comparar diferentes níveis de abrangência.
+### Segmentação dos Dados
+- [X] Visualizar os dados por estado, por município e por rodovia, para comparar diferentes níveis de abrangência.
 - [X] Filtros interativos e exportação dos dados, para explorar diferentes cenários e compartilhar informações quando necessário.
 
 ## Sprint 2
-### Geografia dos fluxos
-- [ ] Identificar em quais localidades (Unidades de Receita Federal) são processadas as exportações de cada Estado;
-- [ ] Desenvolver um painel de Estatísticas interativo, exibindo a balança comercial de 2022 a 2024;
-- [ ] Desenvolver o front-end no Power BI;
-### Diversificação de produtos
-- [ ] Detectar se os estados concentram suas exportações em poucos produtos ou apresentam uma pauta diversificada;
-- [ ] Utilizar o GitHub para controle de versão dos artefatos do projeto;
-### Análises de vias de transporte
-- [ ] Pesquisar quais são os principais modais de transporte utilizados para escoar exportações em nível internacional;
+### Estudos Segmentados
+- [ ] Visualizar das taxas de mortalidade por 100 mil habitantes em cada estado, para comparar os riscos regionais e gravidades dos acidentes;
+- [ ] Acompanhar a evolução histórica dos indicadores, para identificar tendências ao longo do tempo;
+- [ ] Segmentar os dados por tipo de veículo, região, ano e gravidade do sinistro para analisar os sinistros mais recorrentes.
+### Análises por Estados
+- [ ] Desenvolver um um ranking destacando os estados com maior e menor número de mortes, para facilitar comparações visuais.
+- [ ] Quais estados tiveram maior eficiência na redução de mortes no trânsito?
+- [ ] Possibilidade de monitorar indicadores e apoiar decisões, para melhorar a gestão da segurança viária;
 - [ ] Sistema responsivo, adaptável a diferentes dispositivos;
 
 ## Sprint 3
+### Análise Quantitativa
+- [ ] Desenvolver de um ranking de eficiência dos municípios de SP com mais de 100 mil habitantes, considerando frota, população, orçamento municipal e quantidade de sinistros, para avaliar e comparar a eficiência municipal;
 ### Estudo de Sazonalidade
-- [ ] Descobrir se existem padrões sazonais nas exportações de determinados produtos;
-- [ ] Pesquisar como as empresas locais lidam com as variações;
-### Análise de Tendência e Projeção 
-- [ ] Identificar quais as tendências de exportação;
-- [ ] Detectar a possibilidade de criação de um modelo de projeção futura;
-### Análise de Risco
-- [ ] Descobrir quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comercias;
+- [ ] Visualizar os indicadores de mortalidade, sazonalidade dos acidentes (mensal, semanal, diária e horária), tipos de veículos envolvidos e tamanho da frota por município, para ter uma visão completa da situação;
+### Segmentação da frota
+- [ ] Aplicar filtros por tipo de veículo (carros, motos, caminhões), para analisar quais contribuem mais para os sinistros.;
       
-## Sprint 4
-- [ ] Visualizar os principais países de destino das exportações;
-- [ ] Demonstrar comparações entre destinos e modais utilizados;
-- [ ] Analisar a eficiência logística de diferentes mercados;
-- [ ] Vizualizar oportunidades de otimização para novos mercados;
-
-
 # Registro das Sprints
 
 |  Sprint | Previsão | Status  |
 |---------|----------|---------|
-|01 | 29/09/2025 | a fazer | 
+|01 | 30/09/2025 | Concluido | 
 |02|  20/10/2025 | a fazer |
 |03| 17/11/2025 | a fazer| 
 |Feira de Soluções| 04/12/2025 |a fazer |
