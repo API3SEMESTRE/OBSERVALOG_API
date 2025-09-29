@@ -49,7 +49,7 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 - [X] Dashboard no Power BI com interface para visualizar os indicadores de forma intuitiva.
 - [X] Dados apresentados em gráficos, para facilitar a interpretação e análise.
 ### Segmentação dos Dados
-- [X] Visualizar os dados por estado, por município e por rodovia, para comparar diferentes níveis de abrangência.
+- [X] Visualizar os dados por estado para comparar diferentes níveis de abrangência.
 - [X] Filtros interativos e exportação dos dados, para explorar diferentes cenários e compartilhar informações quando necessário.
 
 ## Sprint 2
