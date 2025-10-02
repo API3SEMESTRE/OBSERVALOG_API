@@ -8,9 +8,8 @@ O Aprendizado por Projeto Integrador é uma metodologia que conecta teoria e pr�
 * [Projeto](#projeto-template)
 * [Equipe](#Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
+* [Sprints](#Sprints)
 
 # Projeto (API) 
 O projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — a fim de analisar de forma abrangente os indicadores de sinistralidade no trânsito brasileiro. A proposta envolve a construção de painéis interativos que apresentem métricas em nível estadual e nacional, contemplando indicadores como mortalidade, severidade dos sinistros, índice de motorização, frota de veículos, população e uso de motocicletas. Reunindo e conectando dados de diferentes fontes, o estudo pretende contribuir para o aprimoramento de políticas públicas e estratégias de gestão voltadas à segurança viária no Brasil.
@@ -38,44 +37,31 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
  > GitHub;
  > Google Colab;
 
-# Backlog do produto
-
-## Sprint 1
-### Tratamento dos Dados
-- [X] Normalização e análise inicial dos dados no Google Colab;
-- [X] Limpeza inicial utilizando o Google Colab em linguagens de programação Phyton3+, para garantir consistência no dashboard;
-### Análise dos Dados
-- [X] Primeira versão do dashboard usando a base geral do Renaest, para começar a análise de forma consistente;
-- [X] Dashboard no Power BI com interface para visualizar os indicadores de forma intuitiva.
-- [X] Dados apresentados em gráficos, para facilitar a interpretação e análise.
-### Segmentação dos Dados
-- [X] Visualizar os dados por estado para comparar diferentes níveis de abrangência.
-- [X] Filtros interativos e exportação dos dados, para explorar diferentes cenários e compartilhar informações quando necessário.
-
-## Sprint 2
-### Estudos Segmentados
-- [ ] Visualizar das taxas de mortalidade por 100 mil habitantes em cada estado, para comparar os riscos regionais e gravidades dos acidentes;
-- [ ] Acompanhar a evolução histórica dos indicadores, para identificar tendências ao longo do tempo;
-- [ ] Segmentar os dados por tipo de veículo, região, ano e gravidade do sinistro para analisar os sinistros mais recorrentes.
-### Análises por Estados
-- [ ] Desenvolver um um ranking destacando os estados com maior e menor número de mortes, para facilitar comparações visuais.
-- [ ] Quais estados tiveram maior eficiência na redução de mortes no trânsito?
-- [ ] Possibilidade de monitorar indicadores e apoiar decisões, para melhorar a gestão da segurança viária;
-- [ ] Sistema responsivo, adaptável a diferentes dispositivos;
-
-## Sprint 3
-### Análise Quantitativa
-- [ ] Desenvolver de um ranking de eficiência dos municípios de SP com mais de 100 mil habitantes, considerando frota, população, orçamento municipal e quantidade de sinistros, para avaliar e comparar a eficiência municipal;
-### Estudo de Sazonalidade
-- [ ] Visualizar os indicadores de mortalidade, sazonalidade dos acidentes (mensal, semanal, diária e horária), tipos de veículos envolvidos e tamanho da frota por município, para ter uma visão completa da situação;
-### Segmentação da frota
-- [ ] Aplicar filtros por tipo de veículo (carros, motos, caminhões), para analisar quais contribuem mais para os sinistros.;
-      
 # Registro das Sprints
 
 |  Sprint | Previsão | Status  |
 |---------|----------|---------|
-|01 | 30/09/2025 | Concluido | 
-|02|  20/10/2025 | a fazer |
+|01 | 30/09/2025 | Concluído | 
+|02|  20/10/2025 | em andamento |
 |03| 17/11/2025 | a fazer| 
 |Feira de Soluções| 04/12/2025 |a fazer |
+
+# Backlog do produto
+
+## Sprint 1
+
+<img width="1429" height="1116" alt="image" src="https://github.com/user-attachments/assets/94553467-4ab7-4929-9fe8-d27497900211" />
+
+## Resultado 
+[Assista ao vídeo no YouTube](https://youtu.be/WY0kTnESSbU)
+
+## Sprint 2
+
+<img width="1273" height="948" alt="image" src="https://github.com/user-attachments/assets/9e34dd48-effa-42e6-8de9-b14e43f9627f" />
+
+## Sprint 3
+
+<img width="1379" height="611" alt="image" src="https://github.com/user-attachments/assets/95c90411-3475-444f-8b0d-8201592e77b4" />
+
+
+
