@@ -50,18 +50,18 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 
 ## Sprint 1
 
-<img width="1429" height="1116" alt="image" src="https://github.com/user-attachments/assets/94553467-4ab7-4929-9fe8-d27497900211" />
+<img width="2261" height="550" alt="image" src="https://github.com/user-attachments/assets/85fdb977-bf97-4da9-b132-4b169d750a74" />
 
 ## Resultado 
 [Assista ao vídeo no YouTube](https://youtu.be/WY0kTnESSbU)
 
 ## Sprint 2
 
-<img width="1273" height="948" alt="image" src="https://github.com/user-attachments/assets/9e34dd48-effa-42e6-8de9-b14e43f9627f" />
+<img width="2261" height="747" alt="image" src="https://github.com/user-attachments/assets/d05990c1-ae30-4111-84bc-ff7f84779b55" />
 
 ## Sprint 3
 
-<img width="1379" height="611" alt="image" src="https://github.com/user-attachments/assets/95c90411-3475-444f-8b0d-8201592e77b4" />
+<img width="2261" height="461" alt="image" src="https://github.com/user-attachments/assets/b2456478-7b26-4fe3-b184-e0bbaf960773" />
 
 
 
