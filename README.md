@@ -42,8 +42,8 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 |  Sprint | Previsão | Status  |
 |---------|----------|---------|
 |01 | 30/09/2025 | Concluído | 
-|02|  20/10/2025 | em andamento |
-|03| 17/11/2025 | a fazer| 
+|02|  20/10/2025 | Concluído |
+|03| 17/11/2025 | em andamento | 
 |Feira de Soluções| 04/12/2025 |a fazer |
 
 # Backlog do produto
