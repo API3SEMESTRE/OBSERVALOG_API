@@ -39,7 +39,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais | Status |
 |--------|----------------------|--------|
-
+| 01     | Estrutura inicial do painel | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
