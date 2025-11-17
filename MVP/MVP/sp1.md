@@ -123,13 +123,7 @@ Profissional técnico que trabalha com análise detalhada de acidentes, mortalid
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |Documentação técnica completa com scripts de limpeza e modelagem em Python.| Concluído|
-| 01     |Dados de frota, população, mortes, sinistros.| Concluído |
-| 01     |Dashboard em Power BI com interface limpa, navegação intuitiva e dados atualizados.| Concluído|
-| 01     |Mapas e gráficos de tendência por estado.| Concluído |
-| 01     |Visualização Nacional e Estadual; Comparativo entre estados e média nacional.| Concluído|
-| 01     |Filtros Interativos; Segmentação por tipo de veículo, região, ano, gravidade; Filtro cruzado entre saúde e transporte.| Concluído |
-
+| 01     | Estrutura inicial do painel | Concluído |
 
 ---
 
