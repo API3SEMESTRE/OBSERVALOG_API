@@ -161,7 +161,7 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 | 10    | Média       | Como gestor/analista, quero acompanhar a evolução histórica dos indicadores, para identificar tendências ao longo do tempo.                                                | 13          | 2      |
 | 11    | Média       | Como analista/gestor, quero segmentar os dados por tipo de veículo, região, ano e gravidade do sinistro para analisar os sinistros mais recorrentes.                                                                    | 8          | 2      |
 | 12    | Baixa       | Como gestor/analista, quero monitorar indicadores e apoiar decisões, para melhorar a gestão da segurança viária.                                                           | 13          | 2      |
-EDITAR A SPRINT 3| 13    | Alta       | Como gestor, quero um ranking de eficiência dos municípios de SP com mais de 100 mil habitantes, considerando frota, população, orçamento municipal e quantidade de sinistros, para avaliar e comparar a eficiência municipal.                                                    | 8          | 3      |
+| 13    | Alta       | Como gestor, quero um ranking de eficiência dos municípios de SP com mais de 100 mil habitantes, considerando frota, população, orçamento municipal e quantidade de sinistros, para avaliar e comparar a eficiência municipal.                                                    | 8          | 3      |
 | 14    | Alta       | Como gestor/analista, quero visualizar os indicadores de mortalidade, sazonalidade dos acidentes (mensal, semanal, diária e horária), tipos de veículos envolvidos e tamanho da frota por município, para ter uma visão completa da situação.                                                                    | 13          | 3      |
 | 15    | Média       | Como analista/gestor, quero aplicar filtros por tipo de veículo (carros, motos, caminhões), para analisar quais contribuem mais para os sinistros.                                                           | 21          | 3      |
 
@@ -170,7 +170,7 @@ EDITAR A SPRINT 3| 13    | Alta       | Como gestor, quero um ranking de eficiê
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 30/09/2025 | Concluído  | [MVP](MVP/sp1.md)  |
+| 01                | 30/09/2025 | Concluído  | [MVP](MVP/MVP/sp1.md)  |
 | 02                | 20/10/2025 | Concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 28/11/2025 | Em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
